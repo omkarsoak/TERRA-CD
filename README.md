@@ -1,8 +1,7 @@
 # TERRA-CD: A Multi-Temporal Benchmark Dataset for Urban Multi-Class and Semantic Change Detection
 
-[Omkar Oak](https://github.com/omkarsoak)$^{1^*}$, [Rukmini Nazre](https://github.com/rukmini-17)$^1$, [Rujuta Budke](https://github.com/rujuta13)$^1$, Suraj Sawant $^1$, Rajkumar Saini $^2$ <br>
-$^1$ Department of Computer Science and Engineering, COEP Technological University, Pune, India. <br>
-$^2$ Department of Computer Science, Electrical and Space Engineering, Luleå University of Technology, Sweden. <br>
+[Omkar Oak](https://github.com/omkarsoak)$^{1^*}$, [Rukmini Nazre](https://github.com/rukmini-17)$^1$, [Rujuta Budke](https://github.com/rujuta13)$^1$, Suraj Sawant $^1$ <br>
+$^1$ COEP Technological University, Pune, India. <br>
 
 ## Abstract
 
